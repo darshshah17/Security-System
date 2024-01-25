@@ -1,0 +1,1 @@
+This is a security system that is developed using Python, C++, and Arduino hardware to recognize potential threats with aid from OpenCV and Cython. This project leverages ML and hardware integration to provide safety and security to all.
